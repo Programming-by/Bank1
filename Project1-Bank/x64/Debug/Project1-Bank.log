@@ -1,6 +1,5 @@
 ﻿  Project1-Bank.cpp
 C:\Users\User\Source\Repos\Project1-Bank\Project1-Bank\Project1-Bank.cpp(628,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\User\Source\Repos\Project1-Bank\Project1-Bank\Project1-Bank.cpp(1241,17): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
 C:\Users\User\Source\Repos\Project1-Bank\Project1-Bank\Project1-Bank.cpp(909): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
 C:\Users\User\Source\Repos\Project1-Bank\Project1-Bank\Project1-Bank.cpp(965): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
   Project1-Bank.vcxproj -> C:\Users\User\Source\Repos\Project1-Bank\x64\Debug\Project1-Bank.exe
