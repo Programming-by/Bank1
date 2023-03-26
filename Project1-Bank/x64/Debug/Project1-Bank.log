@@ -1,7 +1,7 @@
 ﻿  Project1-Bank.cpp
-C:\Users\User\Source\Repos\Bank1\Project1-Bank\Project1-Bank.cpp(651,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\User\Source\Repos\Bank1\Project1-Bank\Project1-Bank.cpp(1021): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
-C:\Users\User\Source\Repos\Bank1\Project1-Bank\Project1-Bank.cpp(1077): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
-C:\Users\User\Source\Repos\Bank1\Project1-Bank\Project1-Bank.cpp(1517): warning C4715: 'UpdateUserByUsername': not all control paths return a value
-C:\Users\User\Source\Repos\Bank1\Project1-Bank\Project1-Bank.cpp(1695): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+C:\Users\User\Source\Repos\Bank1\Project1-Bank\Project1-Bank.cpp(658,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\User\Source\Repos\Bank1\Project1-Bank\Project1-Bank.cpp(1082): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\User\Source\Repos\Bank1\Project1-Bank\Project1-Bank.cpp(1138): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\User\Source\Repos\Bank1\Project1-Bank\Project1-Bank.cpp(1650): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+C:\Users\User\Source\Repos\Bank1\Project1-Bank\Project1-Bank.cpp(1794): warning C4715: 'DeleteUserByUsername': not all control paths return a value
   Project1-Bank.vcxproj -> C:\Users\User\Source\Repos\Bank1\x64\Debug\Project1-Bank.exe
